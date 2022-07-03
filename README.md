@@ -1,0 +1,2 @@
+# KNIMEchallenge
+Interview challenge
